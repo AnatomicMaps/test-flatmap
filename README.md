@@ -1,4 +1,4 @@
-# pig-flatmap
+# test-flatmap
 
 A repository to store pig flatmaps
 
