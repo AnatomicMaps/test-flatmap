@@ -1,0 +1,19 @@
+{
+    "id": "test-flatmap",
+    "models": "NCBITaxon:1",
+    "description": "description.json",
+    "properties": "properties.json",
+    "sckan-version": "production",
+    "sources": [
+        {
+            "id": "simple-test",
+            "href": "test_flatmap.svg",
+            "kind": "base"
+        }
+    ],
+    "anatomicalMap": "anatomical_map.json",
+    "connectivityTerms": "connectivity_terms.json",
+    "neuronConnectivity": [
+        "https://apinatomy.org/uris/models/keast-bladder"
+    ]
+}
