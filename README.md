@@ -1,14 +1,12 @@
 # test-flatmap
 
-A repository to store test flatmaps.
-
-This is a simple flatmap for testing purposes. Included here are the connectivity in the `keast-5` which includes organs such as `the spinal cord segment` where `lamina VII of gray matter of spinal` is located. Then, because neuronConnectivity is set to `keast-bladder`, additional parts of `keast-4`, `keast-9`, `keast-10`, and `keast-20` appear.
+This is a simple flatmap for testing purposes. Included are features used by the `keast-5` ApiNATOMY neuron population, including spinal cord segments containing lamina VII gray matter. Because `neuronConnectivity` in the manifest specifies all of the `keast-bladder` model, parts of `keast-4`, `keast-9`, `keast-10`, and `keast-20` also appear.
 
 ## Map generation
 
 ```
-$ python runmaker.py --output ../published/flatmaps  --source ../published/sources/test-flatmap/manifest.json --background-tiles
-INFO: Generated map: id: test-flatmap, uuid: 381999f7-fdec-58ca-a522-62e0c0c64cfe, models: NCBITaxon:1, output: ../published/flatmaps/381999f7-fdec-58ca-a522-62e0c0c64cfe
+$ python runmaker.py --output ../map-server/flatmaps  --source ../map-sources/test-flatmap/manifest.json --background-tiles --ignore-git
+INFO: Generated map: id: test-flatmap, uuid: None, models: NCBITaxon:1, output: ../map-server/flatmaps/test-flatmap
 ```
 
 ## Upload to SPARC Ubuntu system
@@ -16,8 +14,8 @@ INFO: Generated map: id: test-flatmap, uuid: 381999f7-fdec-58ca-a522-62e0c0c64cf
 IP address is 34.209.7.109
 
 ```
-$ cd ../published/flatmaps
-$ tar czf test-flatmap.tar.gz knowledgebase.db 381999f7-fdec-58ca-a522-62e0c0c64cfe/
+$ cd ../map-server/flatmaps
+$ tar czf test-flatmap.tar.gz test-flatmap/
 $ scp test-flatmap.tar.gz sparc:
 ```
 
