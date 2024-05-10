@@ -11,15 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.10
+          python-version: '3.10'
       - name: Install remotemaker
-        shell: bash
         run: |
-          pip install $REMOTE_MAKER
+          python -m pip install $REMOTE_MAKER
       - name: run remotemaker
-        shell: bash
         run: |
           python -m remotemaker \
                  --server $MAP_SERVER \
