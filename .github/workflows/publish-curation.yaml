@@ -4,7 +4,7 @@ on:
 
 env:
   MAP_SERVER: https://mapcore-demo.org/debug/flatmap
-  REMOTE_MAKER: https://github.com/AnatomicMaps/remotemaker/releases/download/v0.1.4/remotemaker-0.1.4-py3-none-any.whl
+  REMOTE_MAKER: https://github.com/AnatomicMaps/remotemaker/releases/download/v0.1.5/remotemaker-0.1.5-py3-none-any.whl
 
 jobs:
   generate-map:
