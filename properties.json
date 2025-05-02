@@ -44,6 +44,18 @@
         },
         "body_1-1": {
             "class": "body_1"
+        },
+        "ganglion_25-1": {
+            "models": "ILX:0794910",
+            "name": "Ovarian ganglion"
+        },
+        "reproductive_4-1": {
+            "models": "UBERON:0000992",
+            "name": "ovary"
+        },
+        "plexus_19-1": {
+            "models": "ILX:0793832",
+            "name": "Ovarian nerve plexus"
         }
     },
     "networks": [
