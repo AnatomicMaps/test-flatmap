@@ -244,4 +244,15 @@
       </path>
     </g>
   </g>
+  <g>
+   <circle style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none" id="circle-1" cx="763.034" cy="632.42" r="15">
+      <title>.id(reproductive_4-1)</title>
+   </circle>
+   <circle style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none" id="circle-2" cx="353.105" cy="626.432" r="15">
+      <title>.id(ganglion_25-1)</title>
+   </circle>
+   <path fill="#b2f074" d="M 543.476 637.969 C 539.646 627.721 544.696 616.062 554.656 612.175 C 564.616 608.241 575.946 613.437 579.726 623.687 C 583.546 633.935 578.496 645.594 568.536 649.48 C 558.476 653.416 547.246 648.219 543.476 637.969 Z" id="path-1" style="stroke-width:0.605296">
+      <title>.id(plexus_19-1)</title>
+   </path>
+  </g>
 </svg>

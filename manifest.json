@@ -3,6 +3,7 @@
     "models": "NCBITaxon:1",
     "description": "description.json",
     "properties": "properties.json",
+    "sckan-version": "sckan-2024-09-21",
     "sources": [
         {
             "id": "simple-test",
