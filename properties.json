@@ -62,7 +62,7 @@
         {
             "id": "neural",
             "type": "nerve",
-            "centrelines": [
+            "no-centrelines": [
                 {
                     "id": "pelvic_splanchnic_n",
                     "models": "UBERON:0018675",
