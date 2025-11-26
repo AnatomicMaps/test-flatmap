@@ -12,20 +12,20 @@
         "name": "lamina VII of gray matter of spinal cord"
     },
     "keast_5": {
-        "term": "UBERON:0005303",
-        "name": "hypogastric nerve"
+        "term": "UBERON:0018675",
+        "name": "pelvic splanchnic nerve"
     },
     "spinal_50": {
         "term": "UBERON:0001780",
         "name": "spinal nerve"
     },
     "spinal_28": {
-        "term": "UBERON:0006466",
-        "name": "T10 segment of thoracic spinal cord"
+        "term": "UBERON:0006460",
+        "name": "first sacral spinal cord segment"
     },
     "spinal_27": {
-        "term": "UBERON:0006467",
-        "name": "T11 segment of thoracic spinal cord"
+        "term": "ILX:0738432",
+        "name": "Sixth lumbar spinal cord segment"
     },
     "respiratory_1": {
         "term": "UBERON:0000388",
