@@ -5,126 +5,254 @@
    width="297mm"
    height="210mm"
    viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="test_flatmap.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-   <defs/>
-   <g id="bodyoutline" transform="matrix(0.999993, 0, 0, 1.04436, 29.284512, 18.992558)">
-      <title>.id(body_1-1)</title>
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.144451"
+     inkscape:cx="613.67688"
+     inkscape:cy="563.5475"
+     inkscape:window-width="1152"
+     inkscape:window-height="854"
+     inkscape:window-x="1614"
+     inkscape:window-y="2029"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1"
+     showguides="true" />
+  <g
+     id="bodyoutline"
+     transform="matrix(0.99999286,0,0,1.0443601,-22.715489,18.992557)">
+    <title
+       id="title5">.id(body_1-1)</title>
+    <path
+       style="opacity:0.46;fill:#aacbff;fill-opacity:1;stroke:#ba891e;stroke-width:0.245669;stroke-dasharray:none;stroke-opacity:1"
+       d="m 188.80363,46.65837 755.21456,1.085079 1.08508,634.770861 -756.29964,-3.25524 z"
+       id="path5" />
+  </g>
+  <g
+     id="g4"
+     transform="translate(-11.383562,29.597262)">
+    <title
+       id="title4">Simple test nodes and connectivities</title>
+    <g
+       id="g47"
+       transform="translate(0,-1.0850784)">
       <path
-         style="opacity:0.46;fill:#aacbff;fill-opacity:1;stroke:#ba891e;stroke-width:0.245669;stroke-dasharray:none;stroke-opacity:1"
-         d="M 119.807 46.658 L 926.358 47.743 L 927.511 682.514 L 119.807 679.259 L 119.807 46.658 Z">
+         fill="#b2f074"
+         d="m 551.89902,93.918959 c -3.82426,-10.24767 1.22694,-21.90689 11.18649,-25.7935 9.95895,-3.93383 21.28707,1.26204 25.06351,11.51213 3.82306,10.24767 -1.22633,21.906891 -11.18709,25.792901 -10.05397,3.93563 -21.28707,-1.26083 -25.06291,-11.511531 z"
+         id="path14327"
+         style="stroke-width:0.605296">
+        <title
+           id="title14327">.id(ganglion_1-1)</title>
       </path>
-      <g>
-         <title>Simple test nodes and connectivities</title>
-         <g>
-            <path fill="none" stroke="#595959" stroke-dasharray="3, 3" d="M 577.556 254.462 C 575.077 253.295 567.683 249.715 572.335 241.327 C 576.986 232.943 594.462 232.06 600.449 242.175 C 606.437 252.289 596.962 254.348 596.794 254.517">
-               <title>.id(pelvic_splanchnic)</title>
-            </path>
-            <polygon fill="#54bcea" points="675.134 303.929 682.182 290.328 690.438 303.232" style="transform-origin: 679.588px 299.998px;">
-               <title>.node id(pelvic_branching_point)</title>
-            </polygon>
-            <polygon fill="#54bcea" points="528.943 385.391 513.624 385.462 521.222 372.16" style="transform-origin: 520.385px 378.867px;">
-               <title>.node id(S1_spinal)</title>
-            </polygon>
-            <rect style="opacity:0.733;fill:#7b1fca;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="15.35" height="46.78" x="513.465" y="385">
-               <title>.id(S50_S1)</title>
-            </rect>
-            <rect style="opacity:0.84;fill:#d63513;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="15.35" height="46.78" x="513.733" y="431.855">
-               <title>.id(S43_S1)</title>
-            </rect>
-            <rect style="opacity:0.84;fill:#d8e719;fill-opacity:0.585492;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="89.564" height="92.724" x="476.892" y="478.436">
-               <title>.id(spinal_28-1)</title>
-            </rect>
-            <polygon fill="#54bcea" points="521.38 491.869 513.384 478.801 528.699 478.41" style="transform-origin: 522.164px 482.227px;">
-               <title>.node id(S1_ventral_root_end)</title>
-            </polygon>
-            <circle style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none" cx="498.866" cy="549.468" r="15">
-               <title>.id(S39_S1)</title>
-            </circle>
-            <polygon fill="#54bcea" points="821.43 384.074 828.928 370.715 836.749 383.888" style="transform-origin: 830.138px 377.422px;">
-               <title>.node id(L6_spinal)</title>
-            </polygon>
-            <rect style="opacity:0.733;fill:#7b1fca;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="15.35" height="46.78" x="821.527" y="384">
-               <title>.id(S50_L6)</title>
-            </rect>
-            <rect style="opacity:0.84;fill:#d63513;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="15.35" height="46.78" x="821.486" y="431.153">
-               <title>.id(S43_L6)</title>
-            </rect>
-            <rect style="opacity:0.84;fill:#d8e719;fill-opacity:0.585492;stroke:#b0a402;stroke-width:0.835066;stroke-dasharray:none;stroke-opacity:1" width="89.157" height="98.491" x="784.337" y="478.436">
-               <title>.id(spinal_27-1)</title>
-            </rect>
-            <polygon fill="#54bcea" points="836.494 477.612 829.175 491.07 821.179 478.002" style="transform-origin: 831.96px 481.428px;">
-               <title>.node id(L6_ventral_root_end)</title>
-            </polygon>
-            <circle style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none" cx="805.261" cy="558.328" r="15">
-               <title>.id(S39_L6)</title>
-            </circle>
-            <circle style="stroke-width: 0.983; stroke-dasharray: none; fill: #c1bece; fill-opacity: 1.0;" cx="414.22" cy="115.388" r="15">
-               <title>.id(reproductive_1-1)</title>
-            </circle>
-            <path d="M 317.293 554.351 C 311.755 559.653 302.776 559.653 297.238 554.351 C 291.701 549.048 291.701 540.451 297.238 535.148 C 302.776 529.846 311.755 529.846 317.293 535.148 C 322.831 540.451 322.831 549.048 317.293 554.351 Z" fill="#f15a24" stroke-width="0" style="stroke-width: 0;">
-               <title>.id(nucleus_tractus_solitarius)</title>
-            </path>
-         </g>
-         <g style="stroke:#baad1e;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1, 0, 0, 1, 37.000805, 18)">
-         <g transform="matrix(-0.91936085,-0.05384082,0.05125241,-0.77442712,3760.3854,934.28945)" style="stroke-width:1.73403;stroke-dasharray:none">
-            <title>pelvic_splanchnic</title>
-            <path style="fill:none;stroke:#afa202;stroke-width:1.73403;stroke-dasharray:none" d="M 3422.399 609.618 C 3426.424 649.039 3429.731 672.788 3432.168 725.781">
-               <title>.centreline id(pelvic_splanchnic_n)</title>
-            </path>
-            <path style="fill: none; stroke: rgb(175, 162, 2); stroke-width: 2.22211; stroke-dasharray: none;" d="M 3591.26 492.034 C 3591.26 492.034 3598.93 536.772 3563.49 564.69 C 3522.52 596.948 3425.82 580.459 3424.6 606.124">
-               <title>.centreline id(S1_pelvic)</title>
-            </path>
-            <path style="fill: none; stroke: rgb(175, 162, 2); stroke-width: 1.95103; stroke-dasharray: none;" d="M 3257.43 518.706 C 3257.43 518.706 3252.37 561.326 3307.13 578.434 C 3361.91 595.542 3414.22 584.845 3419.29 603.978">
-               <title>.centreline id(L6_pelvic)</title>
-            </path>
-         </g>
-         <path style="fill:none;fill-opacity:1;stroke:#baad1e;stroke-width:1.50463;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" d="M 484.736 460.741 C 479.113 392.153 482.068 412.474 483.905 364.182">
-            <title>.centreline id(S1_ventral_root)</title>
-         </path>
-         <path style="fill:none;fill-opacity:1;stroke:#baad1e;stroke-width:1.50463;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" d="M 794.521 460.345 C 788.898 391.758 791.853 412.078 793.69 363.786">
-            <title>.centreline id(L6_ventral_root)</title>
-         </path>
-         </g>
-         <g transform="matrix(1, 0, 0, 1, 100.268829, -83.194572)">
-            <title>.id(respiratory_1-1)</title>
-            <g>
-            <rect style="opacity:0.733;fill:#7b1fca;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="59.835" height="58.078" x="145.479" y="173.801"></rect>
-            </g>
-            <path fill="#FF33CC" d="M 163.662 202.733 C 163.662 196.482 169.034 191.374 175.621 191.374 C 182.207 191.374 187.577 196.482 187.577 202.733 C 187.577 208.988 182.207 214.098 175.621 214.098 C 169.034 214.112 163.662 209.003 163.662 202.733 Z" style="stroke-width: 0.979;">
-            <title>.id(respiratory_2-1)</title>
-            </path>
-         </g>
-         <g id="ganglia">
-            <path fill="#b2f074" d="M 665.665 204.868 C 662.838 197.834 666.573 189.831 673.938 187.163 C 681.302 184.463 689.679 188.029 692.471 195.065 C 695.298 202.099 691.564 210.102 684.199 212.769 C 676.764 215.47 668.458 211.903 665.665 204.868 Z" style="stroke-width: 0.605296;">
-               <title>.id(ganglion_1-1)</title>
-            </path>
-            <path fill="#B2F074" d="M 185.795 453.672 C 179.992 447.443 180.153 437.86 186.438 431.949 C 192.722 426.039 202.391 426.359 208.355 432.586 C 214.32 438.816 213.997 448.398 207.712 454.308 C 201.425 460.06 191.595 459.742 185.795 453.672 Z" style="stroke-width: 1;">
-               <title>.id(ganglion_2-1)</title>
-            </path>
-            <path fill="#B2F074" d="M 402.914 292.493 C 397.111 286.264 397.272 276.681 403.557 270.77 C 409.841 264.86 419.51 265.18 425.474 271.407 C 431.439 277.637 431.116 287.219 424.831 293.129 C 418.544 298.881 408.714 298.563 402.914 292.493 Z" style="stroke-width: 1;">
-               <title>.id(ganglion_25-1)</title>
-            </path>
-         </g>
-         <g id="cuffs" transform="matrix(1, 0, 0, 1, -237.435837, -11.315618)">
-            <path fill="none" stroke="#595959" stroke-dasharray="3, 3" d="M 425.898 233.143 C 423.419 231.975 416.024 228.395 420.677 220.008 C 425.328 211.623 442.804 210.74 448.791 220.855 C 454.778 230.969 445.304 233.028 445.136 233.198" style="stroke-width: 1;">
-               <title>.id(nerve_1_c)</title>
-            </path>
-            <path fill="none" stroke="#595959" stroke-dasharray="3, 3" d="M 542.695 305.352 C 540.216 304.185 532.821 300.605 537.474 292.218 C 542.125 283.833 559.601 282.95 565.588 293.065 C 571.575 303.179 562.101 305.238 561.933 305.407" style="stroke-width: 1;">
-               <title>.id(vagus_n_c)</title>
-            </path>
-         </g>
-         <g id="plexuses">
-            <path opacity="0.64" enable-background="new    " d="M 197.576 334.681 C 194.903 339.153 189.878 341.928 184.476 341.928 L 184.262 342.236 C 186.829 346.552 186.829 351.79 184.262 356.109 L 184.476 356.417 C 189.877 356.417 194.901 359.193 197.576 363.663 C 200.249 359.193 205.276 356.417 210.674 356.417 C 208.001 351.947 208.001 346.396 210.674 341.874 C 205.277 341.928 200.304 339.153 197.576 334.681 Z" style="stroke-width: 1;" fill="#E4E417">
-               <title>.id(plexus_1-1)</title>
-            </path>
-            <path opacity="0.64" enable-background="new    " d="M 412.535 181.465 C 409.862 185.937 404.837 188.712 399.435 188.712 L 399.221 189.02 C 401.788 193.336 401.788 198.574 399.221 202.893 L 399.435 203.201 C 404.836 203.201 409.86 205.977 412.535 210.447 C 415.208 205.977 420.235 203.201 425.633 203.201 C 422.96 198.731 422.96 193.18 425.633 188.658 C 420.236 188.712 415.263 185.937 412.535 181.465 Z" style="stroke-width: 1;" fill="#E4E417">
-               <title>.id(plexus_19-1)</title>
-            </path>
-         </g>
-         <path fill="#FF33CC" d="M 186.191 539.446 C 186.191 533.195 191.563 528.087 198.15 528.087 C 204.736 528.087 210.106 533.195 210.106 539.446 C 210.106 545.701 204.736 550.811 198.15 550.811 C 191.563 550.825 186.191 545.716 186.191 539.446 Z" style="stroke-width: 0.979;">
-            <title>.id(spinal_68-1)</title>
-         </path>
+      <path
+         fill="none"
+         stroke="#595959"
+         stroke-dasharray="3, 3"
+         d="m 562.84901,182.12113 c -2.47882,-1.16737 -9.8734,-4.74731 -5.22117,-13.13467 4.65123,-8.38472 22.1273,-9.26749 28.11412,0.84715 5.98772,10.11424 -3.48652,12.17314 -3.65504,12.34263"
+         id="path14954">
+        <title
+           id="title14954">.id(pelvic_splanchnic)</title>
+      </path>
+      <polygon
+         fill="#54bcea"
+         points="3546.869,919.675 3538.96,906.555 3554.277,906.266 "
+         transform="rotate(58.47428,2667.7996,-2084.1524)"
+         id="polygon14543">
+        <title
+           id="title14543">.node id(pelvic_branching_point)</title>
+      </polygon>
+      <polygon
+         fill="#54bcea"
+         points="3538.96,906.555 3554.277,906.266 3546.869,919.675 "
+         transform="rotate(-179.18309,1947.1025,657.30834)"
+         id="polygon14544">
+        <title
+           id="title14544">.node id(S1_spinal)</title>
+      </polygon>
+      <rect
+         style="opacity:0.733;fill:#7b1fca;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="15.349525"
+         height="46.779549"
+         x="343.46457"
+         y="385">
+        <title
+           id="title2">.id(S50_S1)</title>
+      </rect>
+      <rect
+         style="opacity:0.84;fill:#d63513;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-9"
+         width="15.349525"
+         height="46.779549"
+         x="343.73322"
+         y="431.85538">
+        <title
+           id="title2-7">.id(S43_S1)</title>
+      </rect>
+      <rect
+         style="opacity:0.84;fill:#d8e719;fill-opacity:0.585492;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-9-9"
+         width="89.564491"
+         height="92.724014"
+         x="306.89191"
+         y="478.43646">
+        <title
+           id="title2-7-9">.id(spinal_28-1)</title>
+      </rect>
+      <polygon
+         fill="#54bcea"
+         points="3538.96,906.555 3554.277,906.266 3546.869,919.675 "
+         transform="rotate(-120.38192,1826.6272,1612.315)"
+         id="polygon14544-8">
+        <title
+           id="title14544-5">.node id(S1_ventral_root_end)</title>
+      </polygon>
+      <polygon
+         fill="#54bcea"
+         points="3554.277,906.266 3546.869,919.675 3538.96,906.555 "
+         transform="rotate(-179.61414,2160.9783,649.85874)"
+         id="polygon14545">
+        <title
+           id="title14545">.node id(L6_spinal)</title>
+      </polygon>
+      <rect
+         style="opacity:0.733;fill:#7b1fca;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-8"
+         width="15.349525"
+         height="46.779549"
+         x="769.52692"
+         y="384">
+        <title
+           id="title3">.id(S50_L6)</title>
+      </rect>
+      <rect
+         style="opacity:0.84;fill:#d63513;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-9-6"
+         width="15.349525"
+         height="46.779549"
+         x="769.48645"
+         y="431.15305">
+        <title
+           id="title2-7-8">.id(S43_L6)</title>
+      </rect>
+      <rect
+         style="opacity:0.84;fill:#d8e719;fill-opacity:0.585492;stroke:#b0a402;stroke-width:0.835066;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-9-9-3"
+         width="89.156532"
+         height="98.490501"
+         x="732.3374"
+         y="478.43646">
+        <title
+           id="title2-7-9-5">.id(spinal_27-1)</title>
+      </rect>
+      <polygon
+         fill="#54bcea"
+         points="3546.869,919.675 3538.96,906.555 3554.277,906.266 "
+         transform="rotate(-120.38192,2039.2958,1489.9436)"
+         id="polygon14544-8-9">
+        <title
+           id="title14544-5-0">.node id(L6_ventral_root_end)</title>
+      </polygon>
+      <circle
+         style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none"
+         id="circle66"
+         cx="753.26062"
+         cy="558.32764"
+         r="15">
+        <title
+           id="title66">.id(S39_L6)</title>
+      </circle>
+      <circle
+         style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none"
+         id="circle64"
+         cx="328.86597"
+         cy="549.46759"
+         r="15">
+        <title
+           id="title63">.id(S39_S1)</title>
+      </circle>
+    </g>
+    <g
+       id="g46"
+       style="stroke:#baad1e;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-72,18)">
+      <g
+         transform="matrix(-0.91936085,-0.05384082,0.05125241,-0.77442712,3760.3854,934.28945)"
+         id="g14765"
+         style="stroke-width:1.73403;stroke-dasharray:none">
+        <title
+           id="title14762">pelvic_splanchnic</title>
+        <path
+           style="fill:none;stroke:#afa202;stroke-width:1.73403;stroke-dasharray:none"
+           d="m 3426.9777,701.62912 c 6.5577,91.93343 12.4778,160.86529 12.4345,162.41827"
+           id="path14765"
+           sodipodi:nodetypes="cc">
+          <title
+             id="title14765">.centreline id(pelvic_splanchnic_n)</title>
+        </path>
+        <path
+           style="fill:none;stroke:#afa202;stroke-width:2.22211;stroke-dasharray:none"
+           d="m 3657.113,493.42379 c 0,0 10.4782,77.43153 -37.96,125.75282 -55.9666,55.83161 -188.0977,27.29209 -189.7651,71.71219"
+           id="path14764"
+           sodipodi:nodetypes="csc">
+          <title
+             id="title14764">.centreline id(S1_pelvic)</title>
+        </path>
+        <path
+           style="fill:none;stroke:#afa202;stroke-width:1.95103;stroke-dasharray:none"
+           d="m 3195.9437,524.66864 c 0,0 -7.019,83.33596 69.1026,116.78759 76.1216,33.45164 148.8457,12.53559 155.8957,49.94831"
+           id="path14763"
+           sodipodi:nodetypes="csc"
+           inkscape:transform-center-x="0.63093422"
+           inkscape:transform-center-y="3.7009006">
+          <title
+             id="title14763">.centreline id(L6_pelvic)</title>
+        </path>
       </g>
-   </g>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#baad1e;stroke-width:1.50463;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 424.73583,460.74055 c -5.62268,-68.58714 -2.66806,-48.26646 -0.83091,-96.55856"
+         id="path53-4"
+         sodipodi:nodetypes="cc">
+        <title
+           id="title53-6">.centreline id(S1_ventral_root)</title>
+      </path>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#baad1e;stroke-width:1.50463;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 850.52113,460.34476 c -5.62268,-68.58714 -2.66806,-48.26646 -0.83091,-96.55856"
+         id="path53-4-9"
+         sodipodi:nodetypes="cc">
+        <title
+           id="title53-6-1">.centreline id(L6_ventral_root)</title>
+      </path>
+    </g>
+  </g>
+  <g>
+   <circle style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none" id="circle-1" cx="763.034" cy="632.42" r="15">
+      <title>.id(reproductive_4-1)</title>
+   </circle>
+   <circle style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none" id="circle-2" cx="353.105" cy="626.432" r="15">
+      <title>.id(ganglion_25-1)</title>
+   </circle>
+   <path fill="#b2f074" d="M 543.476 637.969 C 539.646 627.721 544.696 616.062 554.656 612.175 C 564.616 608.241 575.946 613.437 579.726 623.687 C 583.546 633.935 578.496 645.594 568.536 649.48 C 558.476 653.416 547.246 648.219 543.476 637.969 Z" id="path-1" style="stroke-width:0.605296">
+      <title>.id(plexus_19-1)</title>
+   </path>
+  </g>
 </svg>
