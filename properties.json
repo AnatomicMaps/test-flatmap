@@ -6,15 +6,16 @@
     },
     "features": {
         "ganglion_1-1": {
-            "models": "UBERON:0016508",
-            "name": "pelvic ganglion",
+            "models": "ILX:0793082",
+            "name": "Celiac Ganglion-Superior Mesenteric Ganglion Complex",
             "type": "ganglion",
             "class": "auto-hide"
         },
         "pelvic_splanchnic": {
             "class": "keast_5",
             "type": "nerve",
-            "models": "UBERON:0018675"
+            "models": "UBERON:0005303",
+            "name": "hypogastric nerve"
         },
         "S50_S1": {
             "class": "spinal_50"
@@ -49,13 +50,47 @@
             "models": "ILX:0794910",
             "name": "Ovarian ganglion"
         },
-        "reproductive_4-1": {
-            "models": "UBERON:0000992",
-            "name": "ovary"
-        },
         "plexus_19-1": {
             "models": "ILX:0793832",
             "name": "Ovarian nerve plexus"
+        },
+        "respiratory_1-1": {
+            "class": "respiratory_1"
+        },
+        "respiratory_2-1": {
+            "class": "respiratory_2"
+        },
+        "nerve_1_c": {
+            "type": "nerve",
+            "models": "ILX:0738308",
+            "name": "External branch of inferior laryngeal nerve"
+        },
+        "vagus_n_c": {
+            "type": "nerve",
+            "models": "UBERON:0001759",
+            "name": "Vagus Nerve"
+        },
+        "plexus_1-1": {
+            "models": "ILX:0793621",
+            "name": "external carotid nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_2-1": {
+            "models": "UBERON:0001989",
+            "name": "superior cervical ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "spinal_68-1": {
+            "class": "spinal_68"
+        },
+        "reproductive_1-1": {
+            "class": "reproductive_1"
+        },
+        "nucleus_tractus_solitarius": {
+            "models": "UBERON:0009050",
+            "name": "Solitary nucleus"
         }
     },
     "networks": [
