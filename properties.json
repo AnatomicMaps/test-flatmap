@@ -6,16 +6,15 @@
     },
     "features": {
         "ganglion_1-1": {
-            "models": "ILX:0793082",
-            "name": "Celiac Ganglion-Superior Mesenteric Ganglion Complex",
+            "models": "UBERON:0016508",
+            "name": "pelvic ganglion",
             "type": "ganglion",
             "class": "auto-hide"
         },
         "pelvic_splanchnic": {
             "class": "keast_5",
             "type": "nerve",
-            "models": "UBERON:0005303",
-            "name": "hypogastric nerve"
+            "models": "UBERON:0018675"
         },
         "S50_S1": {
             "class": "spinal_50"
@@ -79,6 +78,12 @@
         "ganglion_2-1": {
             "models": "UBERON:0001989",
             "name": "superior cervical ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_3-1": {
+            "models": "ILX:0793082",
+            "name": "Celiac Ganglion-Superior Mesenteric Ganglion Complex",
             "type": "ganglion",
             "class": "auto-hide"
         },
