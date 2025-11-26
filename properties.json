@@ -5,12 +5,73 @@
         }
     },
     "features": {
-        "body_1-1": {
-            "class": "body_1"
-        },
         "ganglion_1-1": {
             "models": "UBERON:0016508",
             "name": "pelvic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "pelvic_splanchnic": {
+            "class": "keast_5",
+            "type": "nerve",
+            "models": "UBERON:0018675"
+        },
+        "S50_S1": {
+            "class": "spinal_50"
+        },
+        "S43_S1": {
+            "models": "ILX:0792853",
+            "name": "Anterior root of first sacral nerve"
+        },
+        "S50_L6": {
+            "class": "spinal_50"
+        },
+        "S43_L6": {
+            "models": "ILX:0793615",
+            "name": "Sixth lumbar ventral root"
+        },
+        "spinal_27-1": {
+            "class": "spinal_27"
+        },
+        "spinal_28-1": {
+            "class": "spinal_28"
+        },
+        "S39_L6": {
+            "class": "spinal_39"
+        },
+        "S39_S1": {
+            "class": "spinal_39"
+        },
+        "body_1-1": {
+            "class": "body_1"
+        },
+        "ganglion_25-1": {
+            "models": "ILX:0794910",
+            "name": "Ovarian ganglion"
+        },
+        "plexus_19-1": {
+            "models": "ILX:0793832",
+            "name": "Ovarian nerve plexus"
+        },
+        "respiratory_1-1": {
+            "class": "respiratory_1"
+        },
+        "respiratory_2-1": {
+            "class": "respiratory_2"
+        },
+        "nerve_1_c": {
+            "type": "nerve",
+            "models": "ILX:0738308",
+            "name": "External branch of inferior laryngeal nerve"
+        },
+        "vagus_n_c": {
+            "type": "nerve",
+            "models": "UBERON:0001759",
+            "name": "Vagus Nerve"
+        },
+        "plexus_1-1": {
+            "models": "ILX:0793621",
+            "name": "external carotid nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -26,81 +87,15 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "ganglion_4-1": {
-            "models": "ILX:0794910",
-            "name": "Ovarian ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "S1_S1": {
-            "class": "spinal_1"
-        },
-        "S2_S1": {
-            "models": "ILX:0792853",
-            "name": "Anterior root of first sacral nerve"
-        },
-        "S3_S1": {
-            "models": "ILX:0790504",
-            "name": "First sacral spinal nerve"
-        },
-        "spinal_S1-1": {
-            "class": "spinal_S1"
-        },
-        "S1_L6": {
-            "class": "spinal_1"
-        },
-        "S2_L6": {
-            "models": "ILX:0793615",
-            "name": "Sixth lumbar ventral root"
-        },
-        "S3_L6": {
-            "class": "spinal_3"
-        },
-        "spinal_L6-1": {
-            "class": "spinal_L6"
-        },
-        "spinal_4-1": {
-            "class": "spinal_4"
-        },
-        "plexus_1-1": {
-            "models": "ILX:0793621",
-            "name": "external carotid nerve plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "plexus_2-1": {
-            "models": "ILX:0793832",
-            "name": "Ovarian nerve plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
+        "spinal_68-1": {
+            "class": "spinal_68"
         },
         "reproductive_1-1": {
             "class": "reproductive_1"
         },
-        "respiratory_1-1": {
-            "class": "respiratory_1"
-        },
-        "respiratory_2-1": {
-            "class": "respiratory_2"
-        },
         "nucleus_tractus_solitarius": {
             "models": "UBERON:0009050",
             "name": "Solitary nucleus"
-        },
-        "pelvic_splanchnic_c": {
-            "type": "nerve",
-            "models": "UBERON:0018675",
-            "name": "pelvic splanchnic nerve"
-        },
-        "nerve_1_c": {
-            "type": "nerve",
-            "models": "ILX:0738308",
-            "name": "External branch of inferior laryngeal nerve"
-        },
-        "vagus_n_c": {
-            "type": "nerve",
-            "models": "UBERON:0001759",
-            "name": "Vagus Nerve"
         }
     },
     "networks": [
@@ -134,22 +129,22 @@
                     "id": "S1_ventral_root",
                     "connects": [
                         "S1_spinal",
-                        "spinal_S1-1/S1_ventral_root_end"
+                        "spinal_28-1/S1_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S2_S1",
-                        "S3_S1"
+                        "S43_S1",
+                        "S50_S1"
                     ]
                 },
                 {
                     "id": "L6_ventral_root",
                     "connects": [
                         "L6_spinal",
-                        "spinal_L6-1/L6_ventral_root_end"
+                        "spinal_27-1/L6_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S2_L6",
-                        "S3_L6"
+                        "S43_L6",
+                        "S50_L6"
                     ]
                 }
             ]

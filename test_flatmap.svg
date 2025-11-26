@@ -18,7 +18,7 @@
          <title>Simple test nodes and connectivities</title>
          <g>
             <path fill="none" stroke="#595959" stroke-dasharray="3, 3" d="M 672.491 260.697 C 670.012 259.53 662.618 255.95 667.27 247.562 C 671.921 239.178 689.397 238.295 695.384 248.41 C 701.372 258.524 691.897 260.583 691.729 260.752">
-               <title>.id(pelvic_splanchnic_c)</title>
+               <title>.id(pelvic_splanchnic)</title>
             </path>
             <polygon fill="#54bcea" points="675.134 303.929 682.182 290.328 690.438 303.232" style="transform-origin: 679.588px 299.998px;">
                <title>.node id(pelvic_branching_point)</title>
@@ -27,37 +27,37 @@
                <title>.node id(S1_spinal)</title>
             </polygon>
             <rect style="opacity:0.733;fill:#7b1fca;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="15.35" height="46.78" x="513.465" y="385">
-               <title>.id(S3_S1)</title>
+               <title>.id(S50_S1)</title>
             </rect>
             <rect style="opacity:0.84;fill:#d63513;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="15.35" height="46.78" x="513.733" y="431.855">
-               <title>.id(S2_S1)</title>
+               <title>.id(S43_S1)</title>
             </rect>
             <rect style="opacity:0.84;fill:#d8e719;fill-opacity:0.585492;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="89.564" height="92.724" x="476.892" y="478.436">
-               <title>.id(spinal_S1-1)</title>
+               <title>.id(spinal_28-1)</title>
             </rect>
             <polygon fill="#54bcea" points="521.38 491.869 513.384 478.801 528.699 478.41" style="transform-origin: 522.164px 482.227px;">
                <title>.node id(S1_ventral_root_end)</title>
             </polygon>
             <circle style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none" cx="498.866" cy="549.468" r="15">
-               <title>.id(S1_S1)</title>
+               <title>.id(S39_S1)</title>
             </circle>
             <polygon fill="#54bcea" points="821.43 384.074 828.928 370.715 836.749 383.888" style="transform-origin: 830.138px 377.422px;">
                <title>.node id(L6_spinal)</title>
             </polygon>
             <rect style="opacity:0.733;fill:#7b1fca;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="15.35" height="46.78" x="821.527" y="384">
-               <title>.id(S3_L6)</title>
+               <title>.id(S50_L6)</title>
             </rect>
             <rect style="opacity:0.84;fill:#d63513;fill-opacity:0.284974;stroke:#b0a402;stroke-width:0.623622;stroke-dasharray:none;stroke-opacity:1" width="15.35" height="46.78" x="821.486" y="431.153">
-               <title>.id(S2_L6)</title>
+               <title>.id(S43_L6)</title>
             </rect>
             <rect style="opacity:0.84;fill:#d8e719;fill-opacity:0.585492;stroke:#b0a402;stroke-width:0.835066;stroke-dasharray:none;stroke-opacity:1" width="89.157" height="98.491" x="784.337" y="478.436">
-               <title>.id(spinal_L6-1)</title>
+               <title>.id(spinal_27-1)</title>
             </rect>
             <polygon fill="#54bcea" points="836.494 477.612 829.175 491.07 821.179 478.002" style="transform-origin: 831.96px 481.428px;">
                <title>.node id(L6_ventral_root_end)</title>
             </polygon>
             <circle style="fill:#008000;fill-opacity:1;stroke-width:0.982677;stroke-dasharray:none" cx="805.261" cy="558.328" r="15">
-               <title>.id(S1_L6)</title>
+               <title>.id(S39_L6)</title>
             </circle>
             <circle style="stroke-width: 0.983; stroke-dasharray: none; fill: #c1bece; fill-opacity: 1.0;" cx="414.22" cy="115.388" r="15">
                <title>.id(reproductive_1-1)</title>
@@ -106,7 +106,7 @@
                <title>.id(ganglion_3-1)</title>
             </path>
             <path fill="#B2F074" d="M 402.914 292.493 C 397.111 286.264 397.272 276.681 403.557 270.77 C 409.841 264.86 419.51 265.18 425.474 271.407 C 431.439 277.637 431.116 287.219 424.831 293.129 C 418.544 298.881 408.714 298.563 402.914 292.493 Z" style="stroke-width: 1;">
-               <title>.id(ganglion_4-1)</title>
+               <title>.id(ganglion_25-1)</title>
             </path>
          </g>
          <g id="cuffs" transform="matrix(1, 0, 0, 1, -237.435837, -11.315618)">
@@ -122,11 +122,11 @@
                <title>.id(plexus_1-1)</title>
             </path>
             <path opacity="0.64" enable-background="new    " d="M 412.535 181.465 C 409.862 185.937 404.837 188.712 399.435 188.712 L 399.221 189.02 C 401.788 193.336 401.788 198.574 399.221 202.893 L 399.435 203.201 C 404.836 203.201 409.86 205.977 412.535 210.447 C 415.208 205.977 420.235 203.201 425.633 203.201 C 422.96 198.731 422.96 193.18 425.633 188.658 C 420.236 188.712 415.263 185.937 412.535 181.465 Z" style="stroke-width: 1;" fill="#E4E417">
-               <title>.id(plexus_2-1)</title>
+               <title>.id(plexus_19-1)</title>
             </path>
          </g>
          <path fill="#FF33CC" d="M 186.191 539.446 C 186.191 533.195 191.563 528.087 198.15 528.087 C 204.736 528.087 210.106 533.195 210.106 539.446 C 210.106 545.701 204.736 550.811 198.15 550.811 C 191.563 550.825 186.191 545.716 186.191 539.446 Z" style="stroke-width: 0.979;">
-            <title>.id(spinal_4-1)</title>
+            <title>.id(spinal_68-1)</title>
          </path>
       </g>
    </g>

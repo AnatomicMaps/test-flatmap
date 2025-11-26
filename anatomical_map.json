@@ -7,23 +7,23 @@
         "term": "UBERON:0013702",
         "name": "body proper"
     },
-    "spinal_1": {
+    "spinal_39": {
         "term": "UBERON:0016578",
         "name": "lamina VII of gray matter of spinal cord"
     },
-    "spinal_3": {
-        "term": "UBERON:0009624",
-        "name": "lumbar spinal nerve"
+    "keast_5": {
+        "term": "UBERON:0018675",
+        "name": "pelvic splanchnic nerve"
     },
-    "spinal_4": {
-        "term": "ILX:0738371",
-        "name": "Rexed Lamina VII of T1"
+    "spinal_50": {
+        "term": "UBERON:0001780",
+        "name": "spinal nerve"
     },
-    "spinal_S1": {
+    "spinal_28": {
         "term": "UBERON:0006460",
         "name": "first sacral spinal cord segment"
     },
-    "spinal_L6": {
+    "spinal_27": {
         "term": "ILX:0738432",
         "name": "Sixth lumbar spinal cord segment"
     },
@@ -34,6 +34,10 @@
     "respiratory_2": {
         "term": "UBERON:0004982",
         "name": "mucossa of epiglottis"
+    },
+    "spinal_68": {
+        "term": "ILX:0738371",
+        "name": "Rexed Lamina VII of T1"
     },
     "reproductive_1": {
         "term": "UBERON:0002118",
