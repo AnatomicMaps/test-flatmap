@@ -59,6 +59,9 @@
         "spinal_L6-1": {
             "class": "spinal_L6"
         },
+        "spinal_T1-1": {
+            "class": "spinal_T1"
+        },
         "spinal_4-1": {
             "class": "spinal_4"
         },

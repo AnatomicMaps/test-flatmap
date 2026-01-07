@@ -27,6 +27,10 @@
         "term": "ILX:0738432",
         "name": "Sixth lumbar spinal cord segment"
     },
+    "spinal_T1": {
+        "term": "UBERON:0006457",
+        "name": "First thoracic spinal cord segment"
+    },
     "respiratory_1": {
         "term": "UBERON:0000388",
         "name": "epiglottis"
